@@ -1,0 +1,10 @@
+C:\Users\lenovo\source\repos\WindowsFormsApp51\WindowsFormsApp51\bin\Debug\WindowsFormsApp51.exe.config
+C:\Users\lenovo\source\repos\WindowsFormsApp51\WindowsFormsApp51\bin\Debug\WindowsFormsApp51.exe
+C:\Users\lenovo\source\repos\WindowsFormsApp51\WindowsFormsApp51\bin\Debug\WindowsFormsApp51.pdb
+C:\Users\lenovo\source\repos\WindowsFormsApp51\WindowsFormsApp51\obj\Debug\WindowsFormsApp51.csprojAssemblyReference.cache
+C:\Users\lenovo\source\repos\WindowsFormsApp51\WindowsFormsApp51\obj\Debug\WindowsFormsApp51.Form1.resources
+C:\Users\lenovo\source\repos\WindowsFormsApp51\WindowsFormsApp51\obj\Debug\WindowsFormsApp51.Properties.Resources.resources
+C:\Users\lenovo\source\repos\WindowsFormsApp51\WindowsFormsApp51\obj\Debug\WindowsFormsApp51.csproj.GenerateResource.cache
+C:\Users\lenovo\source\repos\WindowsFormsApp51\WindowsFormsApp51\obj\Debug\WindowsFormsApp51.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\source\repos\WindowsFormsApp51\WindowsFormsApp51\obj\Debug\WindowsFormsApp51.exe
+C:\Users\lenovo\source\repos\WindowsFormsApp51\WindowsFormsApp51\obj\Debug\WindowsFormsApp51.pdb
